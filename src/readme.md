@@ -7,11 +7,10 @@ QUÉ ES UN OBJETO? Es una representacion abstracta
 de una cosa(auto, moto, bicicleta, etc). 
 LOS OBJETOS REPRESENTAN COSAS SIMPLES O COMPLEJAS.
 
-Atributos o propiedades están consttituidos los objetos.
+Atributos o propiedades están constituidos los objetos.
 
 
-En nuestros objetos vamos a guardar la información más
-relevantes. 
+En nuestros objetos vamos a guardar la información más relevantes. 
 
 
 Clases: forma en la que definimos los objetos(definen objetos), 
@@ -20,9 +19,8 @@ En otras palabras una clase es como una plantilla que nos permite crear
 objetos.
 
 
-* LOS OBJETOS SON INSTANCIAS DE CLASES
-* (UTILIZAMOS EL OPERADOR NEW)
-* LAS CLASES DEFINEN COMO ESTAN COMPUESTOS LOS OBJETOS
+* LOS OBJETOS SON INSTANCIAS DE CLASES(UTILIZAMOS EL OPERADOR NEW PARA INSTANCIAR)
+* LAS CLASES DEFINEN COMO ESTÁN COMPUESTOS LOS OBJETOS
 
 OBJETOS ->TIENE:
 * ATRIBUTOS, CARACTERISTICAS, CUALIDADES
